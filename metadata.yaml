@@ -1,11 +1,16 @@
 _repo: The-Sanitary-Condition-of-the-Poor-in-Relation-to-Disease-Poverty-and-Crime-With-an-appendix-__53877
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baker, Benson
     gutenberg_agent_id: '47592'
     url: http://www.gutenberg.org/2009/agents/47592
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53877#The-Sanitary-Condition-of-the-Poor-in-Relation-to-Disease-Poverty-and-Crime-With-an-appendix-_
 gutenberg_issued: '2017-01-03'
 gutenberg_type: Text
 identifiers:
