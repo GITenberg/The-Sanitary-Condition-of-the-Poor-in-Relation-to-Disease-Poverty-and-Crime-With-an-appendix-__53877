@@ -1,0 +1,26 @@
+_repo: The-Sanitary-Condition-of-the-Poor-in-Relation-to-Disease-Poverty-and-Crime-With-an-appendix-__53877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baker, Benson
+    gutenberg_agent_id: '47592'
+    url: http://www.gutenberg.org/2009/agents/47592
+description: ''
+gutenberg_issued: '2017-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sanitation -- Great Britain'
+- !lcsh 'Sanitation, Household'
+- !lcsh 'Communicable diseases -- Prevention'
+- !lcc 'CB'
+- !lcsh 'Poor -- Health and hygiene -- Great Britain'
+- GITenberg
+title: "The Sanitary Condition of the Poor in Relation to Disease, Poverty, and Crime\r\
+  \nWith an appendix on the control and prevention of infectious diseases"
+url: http://www.gutenberg.org/ebooks/53877
